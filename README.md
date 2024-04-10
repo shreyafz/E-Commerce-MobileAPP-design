@@ -21,14 +21,13 @@ HTML, CSS
 Figma
 
 ## Screenshots:
-#### including 1)Onboarding Page 2)Home Page 3)Product Page
+
+#### 1)Onboarding Page
+#### 2)Home Page
+#### 3)Product Page
 ![image](https://github.com/shreyafz/E-Commerce-MobileAPP-design/assets/146700826/5f1834cb-41f4-4a6f-9277-50fea9ab95a2)
 ![image](https://github.com/shreyafz/E-Commerce-MobileAPP-design/assets/146700826/ff4a42b8-766a-4d6e-8f0a-d8796c138d7b)
 ![image](https://github.com/shreyafz/E-Commerce-MobileAPP-design/assets/146700826/ffaf95ce-ce66-49e5-a262-7d53b896b3c1)
-
-
-
-
 
 ## Contributing
 
