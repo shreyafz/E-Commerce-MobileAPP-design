@@ -3,9 +3,9 @@
 This mobile app, built using HTML and CSS, allows users to browse and purchase products with a smooth and user-friendly experience. "Designed in Figma for a focus on usability and aesthetics", the app boasts a clean and visually appealing interface.
 ## Features:
 
-* Browse products by category
-* View detailed product information
-* Add items to cart
+- Browse products by category
+- View detailed product information
+- Add items to cart
   
  ## UI(User interface) Considerations:
 
@@ -16,9 +16,9 @@ This mobile app, built using HTML and CSS, allows users to browse and purchase p
 ## Technologies Used:
 
 ### Front-end:
-HTML, CSS
+- HTML, CSS
 ### Design Tools:
-Figma
+- Figma
 
 ## Screenshots:
 
