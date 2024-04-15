@@ -1,4 +1,3 @@
-
 # E-commerce Mobile App (Froppzz Collections)
 This mobile app, built using HTML and CSS, allows users to browse and purchase products with a smooth and user-friendly experience. "Designed in Figma for a focus on usability and aesthetics", the app boasts a clean and visually appealing interface.
 ## Features:
